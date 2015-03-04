@@ -9,5 +9,8 @@
   },
   "author": "David Howard <dmh2000@gmail.com> (http://geezer-x.com/)",
   "license": "ISC",
-  "gypfile": true
+  "gypfile": true,
+  "dependencies": {
+    "nan": "^1.7.0"
+  }
 }
