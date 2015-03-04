@@ -1,0 +1,13 @@
+{
+  "name": "terminal_size",
+  "version": "0.0.1",
+  "description": "C++ addon for terminal based apps to get current terminal size",
+  "main": "terminal-size.js",
+  "scripts": {
+    "test": "node terminal-size.js",
+    "install": "node-gyp rebuild"
+  },
+  "author": "David Howard <dmh2000@gmail.com> (http://geezer-x.com/)",
+  "license": "ISC",
+  "gypfile": true
+}
